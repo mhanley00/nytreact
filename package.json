@@ -1,0 +1,27 @@
+{
+  "name": "nytreact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhanley00/nytreact.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mhanley00/nytreact/issues"
+  },
+  "homepage": "https://github.com/mhanley00/nytreact#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.4",
+    "if-env": "^1.0.4",
+    "mongo": "^0.1.0",
+    "mongoose": "^5.3.7"
+  }
+}
